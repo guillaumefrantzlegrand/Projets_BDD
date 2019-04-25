@@ -1,5 +1,13 @@
 # README
 
+Guillaume Legrand avec la team de Rennes
+
+---
+
+Exo pas terminé et notamment le seeds.rb qui est vide. Je me suis arrêté au 3.3.3. e)
+
+---
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
