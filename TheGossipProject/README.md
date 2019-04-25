@@ -4,7 +4,7 @@ Guillaume Legrand avec la team de Rennes
 
 ---
 
-Exo pas terminé et notamment le seeds.rb qui est vide. Je me suis arrêté au 3.3.3. e)
+Exo pas terminé et notamment le seeds.rb qui est vide. Je me suis arrêté au 3.3.3. f)
 
 ---
 
